@@ -23,7 +23,7 @@ body {
 
 /* Header */
 .header {
-    background-color: rgb(66, 60, 60);
+    background-color: black;
     padding: 1rem 0;
     position: sticky;
     top: 0;
@@ -73,12 +73,10 @@ body {
 }
 
 .menu-toggle {
-    display: none;
-    background: none;
-    border: none;
-    color: white;
-    font-size: 1.5rem;
-    cursor: pointer;
+     display: none;
+     font-size: 2rem;
+     color: white;
+      cursor: default;
 }
 
 /* Hero Section */
@@ -144,7 +142,7 @@ body {
 /* Services Section */
 .services {
     padding: 4rem 0;
-    background-color: #f1f1f1;
+    background-color: black;
 }
 
 .services h2 {

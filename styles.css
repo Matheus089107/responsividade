@@ -142,7 +142,7 @@ body {
 /* Services Section */
 .services {
     padding: 4rem 0;
-    background-color: black;
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), url('https://hips.hearstapps.com/autoweek/assets/s3fs-public/140429847-2.jpg');
 }
 
 .services h2 {
